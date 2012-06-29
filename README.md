@@ -2,6 +2,8 @@
 
 This tiny sinatra app just pings the Cosm search api for feeds tagged with "app:name=CosmX" and returns the total results.
 
+This makes me feel better about myself.
+
 ## Why?
 
 It was easier and more efficient than parsing massive amounts of JSON on an Arduino just to print one tiny number
